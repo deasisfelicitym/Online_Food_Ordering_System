@@ -1,0 +1,3 @@
+receipt - (customer name, username, contact number, address, subtotal, grand_total)
+
+

@@ -1,0 +1,3 @@
+customers - (username,name,contact,address)
+
+
