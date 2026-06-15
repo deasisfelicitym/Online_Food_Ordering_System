@@ -1,5 +1,6 @@
 class Register:
     def __init__(self):
+
         self.customers = {}
 
         try:
@@ -53,7 +54,7 @@ class Register:
             path = "customers.txt"
 
             file = open(path, "a")
-            # using append because i want my costumer to have multiple order
+            # using append because I want my costumer to have multiple order
 
             file.write(
                 f"{username},{name},{contact},{address}\n"

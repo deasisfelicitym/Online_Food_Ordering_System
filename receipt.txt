@@ -1,3 +1,5 @@
-receipt - (customer name, username, contact number, address, subtotal, grand_total)
-
-
+shane,shan,0987654321,talisay,280.00,330.00
+shane,shan,0987654321,talisay,475.00,525.00
+shane,shan,0987654321,talisay,475.00,525.00
+felicity,feli,099876543221,ebmag,130.00,180.00
+eli,el,09436576655,silay,135.00,185.00

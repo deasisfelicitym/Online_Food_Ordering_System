@@ -1,2 +1,2 @@
-orders - (username,food,quantity,price)
-
+feli,Burger,2,65.000000
+el,Fruit Soda,3,45.000000

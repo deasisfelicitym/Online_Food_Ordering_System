@@ -22,6 +22,7 @@ class Cart:
             total = item.get_total()
             total_payment += total
 
+
             print(
                 f"{item.food:20} "
                 f"{item.quantity:<10} "

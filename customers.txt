@@ -1,3 +1,2 @@
-customers - (username,name,contact,address)
-
-
+feli,felicity,099876543221,ebmag
+el,eli,09436576655,silay
