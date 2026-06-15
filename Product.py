@@ -101,7 +101,7 @@ class Product:
                 file = open(path, "a")
 
                 file.write(
-                    f"{username},{food_name},{qty},{price:2f}\n"
+                    f"{username},{food_name},{qty},{price:.2f}\n"
                 )
 
                 file.close()

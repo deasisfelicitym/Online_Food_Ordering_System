@@ -1,2 +1,1 @@
-feli,Burger,2,65.000000
-el,Fruit Soda,3,45.000000
+feli,Burger,3,65.00
